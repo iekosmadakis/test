@@ -1,0 +1,8 @@
+# ignore the build directory
+build
+
+# ignore the keys file
+keys.txt
+
+# ignore some test file
+test/test.txt
