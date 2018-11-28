@@ -6,3 +6,6 @@ keys.txt
 
 # ignore some test file
 test/test.txt
+
+# vscode files
+.vscode
